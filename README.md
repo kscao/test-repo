@@ -7,6 +7,7 @@ Welcome to the test repository! This is a sample project to demonstrate GitHub f
 - Basic repository structure
 - Sample README formatting
 - Markdown examples
+- GitHub API integration
 
 ## Getting Started
 
@@ -25,6 +26,7 @@ Welcome to the test repository! This is a sample project to demonstrate GitHub f
 ```
 test-repo/
 ├── README.md        # Project documentation
+├── LICENSE          # MIT License
 └── ...             # Additional files will be added here
 ```
 
@@ -43,3 +45,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - GitHub: [@kscao](https://github.com/kscao)
+
+## Last Updated
+
+March 24, 2025
